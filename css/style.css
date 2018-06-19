@@ -19,6 +19,7 @@ h6 {
 }
 
 .education-entry,
+.online-entry,
 .work-entry,
 .project-entry {
   padding: 0 5%;
@@ -34,7 +35,8 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999;
+  /*color: #999;*/
+  color: #000;
   line-height: 29px;
   padding: 10px;
 }
@@ -114,6 +116,13 @@ a {
 
 .white-text {
   font-weight: bold;
+  color: #fff;
+}
+
+#atag-white-text {
+  font-weight: bold;
+  text-decoration:  none;
+  display:  inline;
   color: #fff;
 }
 
