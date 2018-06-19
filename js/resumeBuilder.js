@@ -115,7 +115,7 @@ var projects = {
 		"title": "Neighborhood Map",
 		"dates": "2017",
 		"description": "Using Google Maps select and display User defined Points of Interest.",
-		"images": "images/neighborhood_map.jpg",
+		"images": "images/neighborhood_map.JPG",
 		"url": "http://ec2-52-15-211-126.us-east-2.compute.amazonaws.com/map/"
 	  },
 	  {
